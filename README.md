@@ -2,9 +2,10 @@
 any number of people can play atlas with each other with this program
 
 ## Prerequisites:
-* Java
-* Basic knowledge of country names
+* Java.
+* Basic knowledge of country names.
 * Java in path
+
 Do not delete the file "all_countries.txt". That would cause the whole program to not work. As the name of the file suggests, It has the name of all countries in it. 
 The main file is "Atlas.java".  
 Usage:(navigate to the installation folder first) javac Atlas.java
